@@ -8,6 +8,7 @@ public class Manager  extends Employee{
     public String findName()
     {
         displayName();
+	System.out.println();
         return "findName()";
     }
 
